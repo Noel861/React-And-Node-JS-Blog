@@ -1,0 +1,195 @@
+.Author h4 {
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.Author p span{
+    color: #BABABF;
+    font-size: 14px;
+    margin-right: 2px;
+    margin-bottom: 10px;
+}
+.Author p{
+    font-size: 12px;
+    color: #BABABF;
+    margin-bottom: 20px;    
+}
+.Author img{
+    float: left;
+    position: relative;
+    width: 50px;
+    margin-right: 10px;
+    align-content: center;  
+    position: relative;
+    right: -120px;
+}
+.Author{
+    margin: 0px 230px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: -100px;
+    display: flex;
+    background-color: #242535;
+    width: 800px;
+    height: 290px;
+    border-radius: 10px;
+    margin-bottom: 70px;
+}
+.Author h5{
+    font-weight: 400;
+    color: #BABABF;
+}
+.author_padding{
+    padding: 170px;
+}
+.author_icons{
+    color: #FFFFFF;
+    background-color: #696A75;
+    padding: 7px;
+    width: 25px;
+    font-size: 25px;
+    margin: 0px 5px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.Cards1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    grid-template-rows: 1fr 1fr 1fr;
+    position: relative;
+    top: -50px;
+    height: 1500px;
+    width: 1225;
+    margin: 0px 130px;
+}
+.posts1{
+    position: relative;
+    top: -50px;
+    right: -140px;
+    margin-bottom: 0px;
+}
+.login_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.login{
+    background-color: white;
+    position: relative;
+    top: -130px;
+    margin: 0px 30px;
+    height: 600px;
+    border-radius: 30px;
+}
+.bg{   
+    background-color: #33665A;
+    width: 380px;
+    height: 550px;
+    margin-left: 60px;
+    margin-top: 50px;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+}
+.light{
+    position: relative;
+    top: -50px;
+    right: -300px;
+    width: 150px;
+
+}
+.boy{
+    position: relative;
+    top: -180px;
+    width: 550px;
+    right: -10px;
+}
+.input h1{
+    color: black !important;
+    margin-left: 120px;
+    margin-bottom: 50px;
+    font-size: 60px;
+}
+.input1 input{
+    padding: 10px 250px 10px 20px;
+    color: black !important;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    border-color: black;
+    border-style: solid;
+}
+.input2 input{
+    padding: 10px 250px 10px 20px;
+    color: black !important;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+}
+.input{
+    position: relative;
+    bottom: -50px;
+}
+.login button{
+    padding: 15px 210px;
+    color: white !important;
+    border-radius: 50px;
+    border-style: none;
+    background-color: #33665A;
+    margin-top: 20px;
+}
+.input small a{
+    color: black !important;
+    position: relative;
+    right: -360px;
+    text-decoration: none;
+}
+label{
+    color: black !important;
+}
+.input p{
+    color: grey !important;
+    position: relative;
+    right: -130px;
+}
+.input p a{
+    text-decoration: none;
+    color: #33665A !important;
+}
+.facebook{
+    background-color: blue !important;
+    margin: 0px 40px;
+}
+.apple{
+    background-color: black;
+}
+.icons{
+    position: relative;
+    right: -165px;
+    font-size: 25px;
+    width: 180px;
+}
+.input3{
+    position: relative;
+    bottom: -100px;
+}
+.input3 h1{
+    color: black !important;
+    position: relative;
+    right: -170px;
+}
+.input3 p{
+    color: grey !important;
+    position: relative;
+    right: -130px;
+
+}
+.input3 p a{
+    text-decoration: none;
+    color: #33665A !important;
+}
+.p{
+    width: 250px;
+}
+.h1{
+    width: 100px;
+}
